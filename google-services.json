@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335263525459",
+    "project_id": "skyzuu",
+    "storage_bucket": "skyzuu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335263525459:android:ea0b501f17a12c2befb4a6",
+        "android_client_info": {
+          "package_name": "com.skyzuu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIqTsLNBMj3vomQfe2yAOibvMi-Iv517s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
